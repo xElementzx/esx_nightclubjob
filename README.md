@@ -1,5 +1,5 @@
-# esx_laywerjob
-Simple laywer job with invoicing, on/off duty support, configurable locations and locale support.. oh and a working icon for the phone
+# esx_nightclubjob
+Simple nightclub job with invoicing, on/off duty support, configurable locations and locale support.. oh and a working icon for the phone
 
 Based off
 - [esx_lawyerjob](https://github.com/ESX-PUBLIC/esx_lawyerjob)
